@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app_soss.uxpress_admin">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
+            <meta-data android:name="com.google.android.maps.v2.API_KEY"
+               android:value="AIzaSyAK-SWstuc2Tw1Mv1cBz2k2HmQ-E7psdTU"/>
+</manifest>
